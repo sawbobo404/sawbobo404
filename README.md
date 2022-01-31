@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sawbobo
+- 👋 Hi, I’m Saw Bo Bo
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
